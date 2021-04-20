@@ -6,12 +6,12 @@ There are 3 options in easy mode whereas 6 options in hard mode of which only on
 
 - Hard mode
 
-<img src='images/1.png' width='700' >
+<img src='images/1.png'  >
 
 - Easy mode
 
-<img src='images/2.png' width='700' >
+<img src='images/2.png' >
 
 - Winning screen
 
-<img src='images/3.png' width='700' >
+<img src='images/3.png'  >
